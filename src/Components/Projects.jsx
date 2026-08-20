@@ -32,7 +32,7 @@ const projects = [
 
     github: "https://github.com/Sanket-378/CropCare",
 
-    live: "https://sanket-378.github.io/CropCare/",
+    live: "https://sanket-378.github.io/CropCare/#/",
 
     featured: true,
   },
