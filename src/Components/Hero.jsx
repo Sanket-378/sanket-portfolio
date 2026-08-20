@@ -158,10 +158,9 @@ function Hero() {
               "
             >
               <img
-                src="/images/Photo.png"
-                alt="Sanket Khatkale"
-                className="h-full w-full object-cover"
-              />
+  src={`${import.meta.env.BASE_URL}images/Photo.png`}
+  alt="Sanket Khatkale"
+/>
 
               {/* Very subtle image overlay */}
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-slate-950/10 via-transparent to-transparent" />
